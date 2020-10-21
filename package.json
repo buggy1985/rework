@@ -1,6 +1,6 @@
 {
   "name": "rework",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Plugin framework for CSS preprocessing",
   "main": "index",
   "files": [
