@@ -7,7 +7,7 @@
     "index.js"
   ],
   "dependencies": {
-    "css": "^2.0.0",
+    "css": "buggy1985/css#v2.2.5",
     "convert-source-map": "^0.3.3"
   },
   "devDependencies": {
